@@ -1,0 +1,233 @@
+Postcards From Spain (To Michael Lorimer) - Thea Musgrave (born 1928)
+II. Starlight on Compostela (Santiago de Compostela)
+Five Serenades for solo guitar (2nd edition, Lorimer, Novello 120809, 1997)
+MIDI: http://www.classtab.org/musgrave_postcards_from_spain_2_starlight_on_compostela.mid
+see Notes and Legend below the tab - tabbed by weed@wussu.com - 3 February 2018
+
+"The starry sky, summoned forth here by the clear timbres of harmonics,
+illuminates the enormous, baroque cathedral in Santiago de Compostela, a city
+that exists simply because of faith in a miracle. Legend says that St James's
+body, after having been beheaded by Herod, was wondrously transported in seven
+days by the Saint's disciples to northern Spain, where it lay forgotten for
+hundreds of years. In 813, starlight guided a shepherd to a site, on which he
+discovered the Saint's remains. Over this spot stands the cathedral erected
+during the 11th, 12th and 13th centuries, in which the relics of St James are
+entombed, and to which hundreds of millions of pilgrims have journeyed from the
+middle ages until today." - Michael Lorimer (editor)
+
+Tuning: EADGBE    Key: -    Time: 2/4, 3/4    Tempo: 48 bpm (quarter notes)
+
+ Molto espressivo (play with much expression, much feeling)
+
+                                              arp.
+1  |   .   |   .     |   .   |   .   |   .     |   .   |   .
+e|-----------------|-------------------------|-----------------|
+B|-----------------|---------1---------------|-0--<12>=========|
+G|-----5===========|-5-------1---------------|-0===========----|
+D|-----8===========|-7-----------------------|-0===========----|
+A|-----------------|-------------------------|-1===========----|
+E|<7>=========<7>--|----<7>==================|-0===========0---|
+       1             1       3
+       4.............4       2                 1
+   mp  pp                < < <                 mf
+
+  arp.
+4  |   .   |   .   |   .     |   .   |   .     |   .   |   .   |   .
+e|-------------------------|-----------------|-------------------------|
+B|-0--<12>-----------------|-----------------|---------3---------------|
+G|-0---------5<17>=========|-----5===========|-6-----------------------|
+D|-2=======================|-----6===========|-5-------3---------------|
+A|-4=======================|-----------------|-------------------------|
+E|-------------------------|<7>=========<7>--|----<7>==================|
+   1         4                   1             2       4
+   3                             2             1       3
+       > > > > > > > >       mp  pp
+
+  arp.              arp.                      arp.
+7  |   .   |   .     |   .   |   .   |   .     |   .   |   .
+e|-0---------------|-0===========------------|-3-----------10--|
+B|-0==<12>=========|-----------2<14>---------|-2---------------|
+G|-0===========----|----<19>-----------------|-0---------------|
+D|-2===========----|-8===========------------|-2---------------|
+A|-4===========----|-7===========------------|-1---------------|
+E|-3===========2---|-8===========------------|-----------------|
+   1                 4         3               4           2
+   3                 2                         3
+   2           1     3                         2
+                         > > > > > > >         1
+
+                     >                arp.              arp.
+10 |   .   |--3--|   |   .   |   .     |   .   |   .     |   .   |   .
+e|-9---------------|-----------------|-------------2---|-------------1---|
+B|-----12--8-------|-0---------------|-0===========----|-0===========----|
+G|------------7----|-----3-----------|----<12>---------|----<12>---------|
+D|-----------------|-----------------|-4===========----|-3===========----|
+A|-----------------|-----------------|-6===========----|-5===========----|
+E|---------------9-|-----------------|-5===========----|-4===========----|
+   1   4   2  1  3       1             2           1     2           1
+                                       4                 4
+                     > > > > > > >     3                 3 cresc.
+
+  arp.               -                 >                arp.
+14 |   .   |   .     |--3--| |   .     |   .   |   .     |   .   |   .
+e|-0-----------3---|-2---------------|-----------------|-0-----------3---|
+B|-0---------------|----5------------|-----------------|-2---------------|
+G|-0---------------|-------5-0-------|-----------------|-3---------------|
+D|-2---------------|-----------2-----|-----0-----------|-----------------|
+A|-4---------------|-------------1---|-2---------------|-----------------|
+E|-3---------------|---------------0-|-----6-----------|-3---------------|
+   2           2     1  4  3   2 1.....1   4             1
+   4                                                     3
+   3                                                     2
+   mf                                                    pp  eco
+
+   -                                      arp.
+18 |--3--| |   .     |   .   |   .     |   .   |   .     |   .   |   .
+e|-2---------------|-----------------|-----15==========|-----------------|
+B|----5------------|-----------------|-----14==========|-13--12==========|
+G|-------5-0-------|-----------------|-----15==========|-13==========----|
+D|-----------2-----|-----------------|-----14----------|-----------------|
+A|-------------1---|-----------------|-----------------|-----------------|
+E|---------------0-|-3---2-----------|<19>========<19>-|------------<19>-|
+                                           4             4   2
+                                           2             3
+                                           3
+                                       ppp 1                 < < < < <
+
+   cX______________                            cVII________
+  arp.                      arp.              arp.
+22 |   .   |   .   |   .     |   .   |   .     |   .   |   .
+e|-14-<19>=================|-9===========----|-7===========----|
+B|-10==============--------|-8===========----|-7==========<12>=|
+G|-11==============--------|----<19>---------|-8===========----|
+D|-10==============--------|-8===========----|-7===========----|
+A|-------------------------|-7==========<9>==|====<9>----------|
+E|----------------<19>-----|-----------------|-----------------|
+   4                         4
+   2                         3                 2
+                             2
+                             1
+   mf  > > > > > > >         p                 cresc.
+
+  arp.                                  arp.
+25 |   .   |   .     |   .   |    .      |   .   |   .     |--3--| |   .
+e|-1-----------17--|-16--14--10p7------|-8-----------13--|-11-9----0-------|
+B|=============----|--------------9----|-7---------------|-------11--2-----|
+G|-1---------------|---------------<12>|=============----|-------------0---|
+D|-0---------------|-------------------|-7---------------|-----------------|
+A|-----------------|-------------------|-6---------------|-----------------|
+E|-----------------|-------------------|-----------------|---------------2-|
+   2   4             3   1   4  1 2 4    4           4     2  1  2...2   1
+   1                                     3
+                                         2
+   mf                                    1
+
+               pizz.___________________________________
+  arp.               -
+29 |   .   |   .     |--3--| |   .     |   .   |   .      |   .   |   .
+e|-0-----------3---|-2--0------------|-----------------|------8===========|
+B|-2---------------|------1----------|-----------------|------11==========|
+G|-3---------------|---------0-------|-----------------|------------------|
+D|-----------------|-----------2-----|-----------------|9<21>=======9<21>-|
+A|-----------------|-------------1---|-----------------|------------------|
+E|-3---------------|---------------0-|-3---2-----------|------------------|
+   2                                                    2     1
+   4                                                          4
+   3           dim.                                       p   pp
+
+                            arp.              arp.
+33 |   .   |   .   |   .     |   .   |   .     |   .   |   .   |   .
+e|-8=======8---------------|----<19>=========|----<19>---5<17>=========|
+B|-10======9---------------|-0===========----|-0===========------------|
+G|-------------------------|-0===========----|-0===========------------|
+D|---9<21>=================|-0===========----|-2===========------------|
+A|-------------------------|-1===========----|-4===========------------|
+E|-------------------------|-0===========0---|-------------------------|
+   1       1                                   1         4 
+   4       3                 1                 3
+   < < < < <                 mp                    > > > > > > >
+
+                                               arp.
+36  |   .   |   .     |   .   |   .   |   .     |   .   |   .   |   .
+e|------8===========|-9=======10--------------|-0==============<5>------|
+B|------9------<12>-|----<12>=================|-0==<5>-----<5>-----<5>--|
+G|------------------|<12>=====9---------------|-0=======================|
+D|9<21>=========----|-------------------------|-2=======================|
+A|------------------|-------------------------|-4=======================|
+E|------------------|-------------------------|-3=======================|
+  2     1             1       3                 1
+        9             4       2                 3
+                                                2
+  p   pp              < < < < <                 mp
+
+  arp.
+39 |   .   |   .     |   .   |   .     |   .   |   .
+e|-0===============|--------<5>------|<5>--------------||
+B|----<5>-----<5>==|====<5>-----<5>--|-----------------||
+G|-3===============|-----------------|-----------------||
+D|-2===============|-----------------|-----------------||
+A|-3===============|-----------------|-----------------||
+E|-2===============|-----------------|-----------------||
+   4
+   3
+   2
+   1
+   p                     > > > > > > > >
+
+Notes and Legend
+----------------
+"The performer of Postcards from Spain will find it impossible to sustain every
+note for its written value. Neverthless, it is always possible to communicate
+the composer's intention, and therefore the score is presented in this edition
+as Thea Musgrave wrote it, and as she hopes the listener will imagine it, rather
+than as a precise depiction of the literal sound that one performer might
+produce. The ears of the listener, rather then the fingers of the performer,
+guide the fingering. Whilst this fingering is a model that pleases the composer
+and the editor, the score is presented as the composer conceived it, and other
+fingerings are possible."
+ - Michael Lorimer (editor)
+
+Suggested duration: 1 min 45 sec
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===   - note held, length of note, duration
+>     - (above the tab) accented, stressed
+-     - tenuto - note held for at least its full length, or a little longer
+|-3-| - triplet - 3 notes played in the time of 2 notes
+arp.  - arpeggiate - ripple upwards from the lowest note to the highest note
+p     - (between the notes) pull-off
+pizz. - pizzicato - muted (usually achieved by plucking the string with the
+        right thumb and using the palm of the hand to mute the sting)
+<5>   - natural (open) harmonic on the 5th fret (double octave)
+<7>   - natural (open) harmonic on the 7th fret
+<9>   - natural (open) harmonic on the 9th fret
+<12>  - natural (open) harmonic on the 12th fret (octave)
+<19>  - natural (open) harmonic on the 19th fret
+2<14> - artificial harmonic - left hand 2nd fret, right hand points to 14th fret
+5<17> - artificial harmonic - left hand 5th fret, right hand points to 17th fret
+9<21> - artificial harmonic - left hand 9th fret, right hand points to 21st fret
+CII   - barre on the 2nd fret
+cVII  - part barre on the 7th fret
+cX    - part barre on the 10th fret
+
+expressions (below the tab) -
+< <    - crescendo, growing louder
+> >    - decrescendo, growing softer
+cresc. - growing louder
+dim.   - diminuendo - diminishing, gradually getting softer
+eco    - echo - repeat the previous passage in a softer tone
+mf     - mezzoforte - moderately loud
+mp     - mezzopiano - moderately soft
+p      - piano - soft
+pp     - pianissimo - very soft
+ppp    - pianississimo - extremely soft
+
+------------------------------------------------------------------------------
+
+see the latest version of this tab at http://www.classtab.org
+

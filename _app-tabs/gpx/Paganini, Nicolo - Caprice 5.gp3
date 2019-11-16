@@ -1,0 +1,28 @@
+<!doctype html public "html2.0">
+<HTML>
+<!--                                                                        --> 
+<!-- (C) COPYRIGHT International Business Machines Corp. 1995, 1999         --> 
+<!-- All Rights Reserved                                                    --> 
+<!-- Licensed Materials - Property of IBM                                   --> 
+<!--                                                                        --> 
+<!-- US Government Users Restricted Rights - Use, duplication or            --> 
+<!-- disclosure restricted by GSA ADP Schedule Contract with IBM Corp.      --> 
+<!--                                                                        -->
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <TITLE>Error</TITLE>
+</HEAD>
+
+<body background="http://beata.boden.se:8000/icons/statusBG.jpg">
+<img src="http://beata.boden.se:8000/Docs/wtemast.gif" alt="Web Traffic Express V3.0">
+<H3>Error 400 - Proxy Error: Unable to connect to remote host or host not 
+responding - URL http://www.mysongbook.com/files/p/pagan/Paganini%2C%20Nicolo%20-%20Caprice%20%235%20.gp3.</H3>
+<STRONG>Explanation:</STRONG> On a tunneled request, the server could not
+connect to the requested partner on the requested port.
+<P>
+<STRONG>Action:</STRONG> Check to make sure the URL and port you entered
+is correct.  If so, please retry your request.
+<P>
+<STRONG>URL:</STRONG> <I><A HREF="http://www.mysongbook.com/files/p/pagan/Paganini%2C%20Nicolo%20-%20Caprice%20%235%20.gp3">http://www.mysongbook.com/files/p/pagan/Paganini%2C%20Nicolo%20-%20Caprice%20%235%20.gp3</A></I>
+</BODY>
+</HTML>

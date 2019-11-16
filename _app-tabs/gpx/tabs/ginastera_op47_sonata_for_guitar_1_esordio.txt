@@ -1,0 +1,277 @@
+Op 47 Sonata for Guitar - 1. Esordio (Beginning) - Alberto Ginastera (1916-1983)
+(for and fingered by Carlos Barbosa-Lima) Edition: Boosey & Hawkes SRB-3 (1984)
+Notes and Legend below the tab - tabbed by weed@wussu.com - 8 May 2018
+video: https://www.youtube.com/watch?v=vZ0c4vCiFic - Tatyana Ryzhkova
+video: https://www.youtube.com/watch?v=Un6zQs4Wwyc - Marcin Dylla
+video: https://www.youtube.com/watch?v=7ajhgfHi5v8 - Jiji (Jiyeon Kim)
+
+tuning: EADGBE      key: -      time: (3/4)      tempo: 46 bpm (quarter notes)
+
+Solenne (solemn)
+
+arpeggiato lente (slow arpeggios)                                     F.      ,
+           c1                                      c10               vib.
+  arp.    arp.    arp.    arp.      __________accelerando_____________  >
+(1)|   |   |   |   |   |   |   |   |   |                        |     |   |
+E|-0~~~~~~~1~~~~~~~5~~~~~~~0~~~~~~~-----------------------------16-16-18~~~~~~-
+B|-0~~~~~~~1~~~~~~~2~~~~~~~0~~~~~~~------------1-------11--11-16--16--~~-------
+G|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~----------0---0---10--10------15---~~-------
+D|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~----0---0-------10-----------------~~-------
+A|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~--0---0----------------------------~~-------
+E|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~0----------------------------------~~-------
+                   4                           1       2 1 2  2 3123 4
+   fff             1               sempre tutta forza!
+                              (always full force! keep loud)
+
+                                                                       l.v. F. ,
+                                                   c1  c2  c3  c4 c5 c6 >
+  arp.    arp.    arp.    arp.      ____________accelerando___________ arp.
+(2)|   |   |   |   |   |   |   |   |   |                           |    |   |
+E|-0~~~~~~~2~~~~~~~7~~~~~~~0~~~~~~~------------0---3---2---5---4---7-6--9~~~----
+B|-0~~~~~~~2~~~~~~~4~~~~~~~0~~~~~~~------0-6---0---1---2---3---4---5-6--7~~~----
+G|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~--------3---0---1---3---3---4---5-6--7~~~----
+D|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~----3---4----------------------------0~~~----
+A|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~--1-------0~~~0~~~0~~~0~~~0~~~0~~0~0~~~~~----
+E|-0~~~~~~~0~~~~~~~0~~~~~~~0~~~~~~~0---------------------------------------[s]~-
+                                     1 3   4       3       3       3    4
+                                           1                            2
+                                           2                            1
+
+                                                                l.v. F. ,
+   C7__________    C8              c1______c4______c7______c10__ >
+  arp.    arp.    arp.    arp.      ________accelerando________ arp.
+(3)|   |   |   |   |   |   |   |   |   |                   |     |
+E|-7~~~~~~~8~~~~~~~11~~~~~~0~~~~~~~3~~~~~~~6~~~~~~~9~~~~~~~12----14~~~---
+B|-7~~~~~~~9~~~~~~~10~~~~~~0~~~~~~~--3~~~~~~~6~~~~~~~9~~~~~~12---9~~~----
+G|-7~~~~~~~8~~~~~~~9~~~~~~~0~~~~~~~1~~~~~~~4~~~~~~~7~~~~~~~10----12~~----
+D|-7~~~~~~~7~~~~~~~8~~~~~~~0~~~~~~~--1~~~~~~~4~~~~~~~7~~~~~~10---0~~~----
+A|-7~~~~~~~7~~~~~~~8~~~~~~~0~~~~~~~------0~~~~~~~0~~~~~~~0~~~~~0~~~~~----
+E|-7~~~~~~~7~~~~~~~8~~~~~~~0~~~~~~~----0~~~~~~~0~~~~~~~0~~~~~~0~~~~~[s]~-
+           3       4               4 3     4 3                   4
+           4       3                                             3
+           2       2               accentuato                    1
+
+                                                                       F.
+   C4      C8      C9               ____accelerando____ __ritardando__ c1
+  arp.    arp.    arp.                                             < < <
+(4)|   |   |   |   |   |   |   |   |   |           |   |   |       |   | | | |
+E|-5~~~~~~~9~~~~~~~12~~~~~~0~~~~~~~10--11--8---9---6-7-3-----------------------|
+B|-6~~~~~~~8~~~~~~~11~~~~~~0~~~~~~~9---10--7---8---5-6--40h2-----------0=======|
+G|-5~~~~~~~8~~~~~~~10~~~~~~0~~~~~~~10--9---8---7---6-5-3-----1---------4=======|
+D|-4~~~~~~~9~~~~~~~9~~~~~~~0~~~~~~~--9~~~8~~~7~~~6~~5~4~40h2---2/3-4-0-2=======|
+A|-4~~~~~~~8~~~~~~~9~~~~~~~0~~~~~~~--------------------------2-------0-2=======|
+E|-4~~~~~~~8~~~~~~~9~~~~~~~0~~~~~~~----------------------------3/4-2-1-0=======|
+   3       3       4               4   4   4   4   4 4 24  2 1 2 3 4   4
+   4               3               3   3   2   3   2 3        
+   2       2       2               2 1 2 1 3   2   3 2 13  1 4 2 3 1 1
+                                   molto accentuato                    sfff
+
+   Poco piu mosso  76 bpm (quarter notes)
+
+3/4  tastiera (play above keyboard)  c1              
+5  |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+E|-------------|-------------|-------------|-------------|-------------|
+B|-------------|-0-------0---|-0-----------|-------------|-------------|
+G|-------0-2---|-3-------2---|-0-----2-0---|-------------|-------------|
+D|-3-----1-2---|-3-------2---|-0-----1-2---|-3~~~~~~~3---|-3-----3-3---|
+A|-4-----3-1---|-------------|-0-----1-2---|-3~~~~~~~3---|-3-----3-3---|
+E|-4-----------|-------------|-------------|-2~~~~~~~2---|-2-----2-2---|
+   2     1 4     4       2           4       3
+   4     4 3     3       1             3     2
+   3                                   2     1       Tambora (thumb)....
+   p  dolce
+
+                                             verso il ponticello........
+10 |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+E|-------------|-------------|-------------|-------------|-------------|
+B|-------------|-------------|-------------|-------------|-0-----0-----|
+G|-------------|-------------|-------------|-------0-2---|-0-----1-----|
+D|-3-------3---|-3-----3-3---|-3-----------|-3-----1-2---|-3-----1-----|
+A|-3-------3---|-3-----3-3---|-3-----------|-5-----3-2---|-5-----3-----|
+E|-2-------2---|-2-----2-2---|-2-----------|-5-----------|-------------|
+                                             1     1 4           2
+                                             4     4 3     1     1
+ ..........................................  3       2     4     3
+                                             cresc.
+
+                                            pont.
+                                             C2
+ .......................                    arpv           incalzando
+15 |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+E|---------0---|-2~~~~~~~2---|-2-----2-2---|-2~~~~~2-2---|-2-----2-2---||
+B|-1-----3-1---|-0~~~~~~~0---|-0-----0-0---|-2~~~~~2-2---|-2-----2-2---||
+G|-------2-2---|-0~~~~~~~0---|-0-----0-0---|-3~~~~~3-3---|-3-----3-3---||
+D|-3-----2-3---|-4~~~~~~~4---|-4-----4-4---|-2~~~~~2-2---|-2-----2-2---||
+A|-4-----------|-------------|-0-----0-0---|-2~~~~~2-2---|-2-----2-2---||
+E|-------------|-------------|-0-----0-0---|-3~~~~~3-3---|-3-----3-3---||
+   1     4       1                           3
+   3     3       3                           2             < < < < < < 
+   4     2       f       Tambora (palm)....  ff    Tambora (palm).......
+
+
+ Tempo 1  46 bpm (quarter notes)
+    C2      C1
+   arp.    arp.             ..vib..
+(20)|   |   |   |   |   |   |--3--| |--3--|
+E|--2~~~~~~~3~~~~~~~0~~~~~~~13------3-------
+B|--2~~~~~~~3~~~~~~~0~~~~~~~---10-2----0----
+G|--2~~~~~~~2~~~~~~~0~~~~~~~11------1-------
+D|--2~~~~~~~1~~~~~~~6~~~~~~~---8--0-------1-
+A|--2~~~~~~~1~~~~~~~8~~~~~~~-----------3----
+E|--2~~~~~~~1~~~~~~~9~~~~~~~--------------0-
+            4       1       4  3  2 4     1
+            3       3       2  1    1  3
+    fff     2       4       mf
+
+    C3      C6      C5      ..vib..         C5      c1      C2
+(21)|   |   |   |   |   |   |--3--| |--3--| |   |   |   |   |   |   |   |
+E|--3~~~~~~~6~~~~~~~5~~~~~~~11\0----5-------6~~~~~~~1~~~~~~~3~~~~~~~0~~~~~~~|
+B|--3~~~~~~~6~~~~~~~2~~~~~~~10\-----7-------5~~~~~~~1~~~~~~~4~~~~~~~0~~~~~~~|
+G|--3~~~~~~~6~~~~~~~0~~~~~~~---6-------0----6~~~~~~~1~~~~~~~3~~~~~~~0~~~~~~~|
+D|--3~~~~~~~6~~~~~~~0~~~~~~~------0----8----5~~~~~~~1~~~~~~~2~~~~~~~0~~~~~~~|
+A|--3~~~~~~~6~~~~~~~0~~~~~~~------8-------2-5~~~~~~~2~~~~~~~2~~~~~~~0~~~~~~~|
+E|--3~~~~~~~6~~~~~~~0~~~~~~~--------------4-5~~~~~~~3~~~~~~~2~~~~~~~0~~~~~~~|
+                            2       1     1 4               3
+                            4  1  4 3  4  3 2               4
+    ffff                    mf              fff             2
+
+ Tempo 2  76 bpm (quarter notes)
+3/4             arpv                                       tastiera
+22 |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+E|-0-----0-0---|-0-----------|-0-----0-0---|-0-----0-0---|-0~~~~~~~~~~~|
+B|-0-----0-0---|-0-----------|-0-----0-0---|-0-----0-0---|-0~~~~~~~~~~~|
+G|-0-----0-0---|-0-----------|-0-----0-0---|-0-----0-0---|-0~~~~~~~~~~~|
+D|-0-----0-0---|-0-----------|-0-----0-0---|-0-----0-0---|-0~~~~~~~~~~~|
+A|-0-----0-0---|-0-----------|-0-----0-0---|-0-----0-0---|-0~~~~~~~~~~~|
+E|-0-----0-0---|-0-----------|-0-----0-0---|-0-----0-0---|-0~~~~~~~~~~~|
+  Tambora (palm)         G     Tambora (thumb)...........          G
+   mf            f       f     mf  dim.            p       mf
+
+                                                           cedendo ....
+                                                       sul pont. verso
+27 |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+E|-----0-------|-------------|-------------|-------------|-------------|
+B|-----0-------|-------------|-0~~~~~~~~~~~|-------------|-------------|
+G|-----0-------|-------0-2---|-2~~~~~~~~~~~|-------------|-------0-2/4-|
+D|-----0-------|-3-----1-1---|-2~~~~~~~~~~~|-------------|-3-----1-2/4-|
+A|-----0-------|-4-----3-1---|-------------|-------------|-5-----3-2/4-|
+E|-----0-------|-4-----------|-------------|-------------|-5-----------|
+  Tambora (palm) 2       4     4     G G     G       G     1       4 4
+                 4     1 3     3                           4     1 3 3
+                 3     4 1                                 3     4 2 2
+       p         mp  < < < < < mf    p                     p < < < < < <
+
+   allargando molto .......................
+  arp.
+32 |   |   |     |   |   |     |   |   |
+E|-------------|-------------|-------------||
+B|-0~~~~~~~~~~~|-------------|-------------||
+G|-1~~~~~~~~~~~|-------------|-------------||
+D|-1~~~~~~~~~~~|-------------|-------------||
+A|-3~~~~~~~~~~~|-------------|-------------||
+E|-------------|-------------|-------------||
+   2       G     G       G         G
+   1
+   4
+   mf      p  dim.                 pp
+
+                                            F.
+ Lento  50 bpm (quarter notes)             arp.
+(35)|   |   |   |   |   |   |   |   |   |   |   |   |   |
+E|--------------------3<15>~~~~~~~~~-------<12>~~~~~~~~~~~~~||
+B|-----------------------------------------<12>~~~~~~~~~~~~~||
+G|----------------1<13>~~~~~---------------<12>~~~~~~~~~~~~~||
+D|-------------<12>~~~~~-------------------<12>~~~~~~~~~~~~~||
+A|------3~~~~~-----------------------------<12>~~~~~~~~~~~~~||
+E|--1~~~~~2<14>~~~~~----------------0------<12>~~~~~~~~~~~~~||
+    1   3   2       1
+    p  distinto                     pp
+
+Notes and Legend
+----------------
+"... I wrote this SONATA in four movements, in which the rhythms of South
+American music recur ... The first movement, Esordia, is a solemn prelude,
+followed by a song which was inspired by Kecua music and finds its conclusion
+in an abbreviated repetition of these two elements." - Alberto Ginastera
+
+This piece was difficult to tab. Please let me know if you find any mistakes.
+
+The accelerando passages start as 1/8th notes and end as 1/16th notes.
+The ritardandoo passages start as 1/16th notes and end as 1/8th notes.
+
+measures 16,17 - in the sheet the notes on the 1st beat are dotted half notes
+
+measure (21) - in the sheet the bottom note of the cI chord (G) does not have
+               a natural sign (to cancel G#, last note of preceding triplet)
+
+left hand fingering below the tab -
+1 - index
+2 - middle
+3 - ring
+4 - little
+
+===   - note held
+~     - let the note continue to sound until it fades (lasciar vibrare)
+>     - accented, stressed
+,     - slight pause (breath mark)
+/     - slide the note up
+\     - slide the note down
+< <   - crescendo - growing louder
+|-3-| - triplet - 3 notes played in the time of 2 notes
+[s]   - son siffle - whistling sound - slide the right hand thumb and middle
+        finger as fast as possible along the string (usually towards the bridge)
+        the thumb and middle finger of the right hand
+arp.  - ripple upwards with thumb from the lowest note to the highest note
+arpv  - ripple downwards with index finger from highest note to the lowest note
+dim.  - diminuendo - diminishing, gradually getting softer
+f     - forte - loud
+F.    - Fermata - pause, note(s) held
+ff    - fortissimo - very loud
+fff   - fortississimo - extremely loud
+ffff  - fortissississimo - louder than fortississimo
+G     - Golpe - tap on the sound box with the knuckles
+l.v.  - lasciar vibrare / laissez vibrer - let the note(s) sound until they fade
+mf    - mezzoforte
+p     - (below the tab) piano - soft
+pont. - ponticello - (by) the bridge
+pp    - pianissimo - vefy soft
+sfff  - sforzato - suddenly extremely loud, very strongly accented
+sul   - on the (sul ponticello - play close to the bridge)
+vib.  - vibrato - finger vibrato / horizontal vibrato - small regular pulsating
+        variations in pitch made by stretching the string, alternatively pushing
+        and pulling the string to produce a richer 'wavering' sound
+
+<12>  - natural (open) (octave) harmonic on the 12tyh fret
+1<13> - artificial harmonic, left hand 1st fret, right hand ponts to 13th fret
+2<14> - artificial harmonic, left hand 2nd fret, right hand ponts to 14th fret
+3<15> - artificial harmonic, left hand 3rd fret, right hand ponts to 15th fret
+
+c1  - part barre on the 1st fret
+C1  - barre on the 1st fret
+c2  - part barre on the 2nd fret
+C2  - barre on the 2nd fret
+""    ""
+C9  - barre on the 9th fret
+c10 - part barre on the 10th fret
+
+Tambora (palm) - beat on the strings with the palm
+Tambora (thumb) - beat on the strings (near the bridge) with the thumb
+tastiera - play above the keyboard (fretboard), over the frets
+verso il ponticello - play towards the bridge
+
+accelerando - accelerating, gradually faster, with increasing speed
+accentuato - marked, accentuated
+allargando - enlarged, broadening out, getting slower with an increase in tone
+cedendo - getting slower, yielding
+cresc. - crescendo - gardually getting louder
+distinto - distinct, clear, distinguished
+dolce - sweetly, softly, gently, expressive
+incalzando -  hastening, pressing forward, increasing the tempo
+molto - much, very (molto accentuato - heavily accented)
+poco piu mosso - a little more motion, slighly faster
+ritardando - slowing down, gradually slower
+
+------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

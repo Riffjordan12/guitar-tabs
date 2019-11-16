@@ -1,0 +1,34 @@
+foobar2000 1.3.16 / Dynamic Range Meter 1.1.1
+log date: 2018-11-05 16:21:55
+
+--------------------------------------------------------------------------------
+Analyzed: Ibet de los Angeles / Contradanzas, danzas y otros divertimentos tropicales
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -2.65 dB   -15.94 dB      0:58 01-Los Ojos De Pepa
+DR12      -1.74 dB   -15.38 dB      0:59 02-El Somatén
+DR13      -2.14 dB   -17.89 dB      3:35 03-Danza Lucumí
+DR13      -0.29 dB   -16.17 dB      2:18 04-La Comparsa
+DR12      -2.10 dB   -15.43 dB      0:55 05-El Cataclismo
+DR12      -2.22 dB   -17.18 dB      1:18 06-Recuerdos Tristes
+DR13      -0.32 dB   -17.07 dB      2:51 07-Chacumbele
+DR13      -0.21 dB   -16.79 dB      2:27 08-Inevitable
+DR11      -1.78 dB   -15.90 dB      1:47 09-El Velorio
+DR11      -1.96 dB   -15.64 dB      0:56 10-Los Tres Golpes
+DR12      -0.33 dB   -16.27 dB      2:34 11-Pasajero En El Tiempo-Primera Estancia
+DR15      -0.10 dB   -17.02 dB      3:36 12-Pasajero En El Tiempo-Segunda Estancia
+DR11      -0.10 dB   -17.39 dB      2:21 13-Pasajero En El Tiempo-Tercera Estancia
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR12
+
+Samplerate:        88200 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2441 kbps
+Codec:             FLAC
+================================================================================
+

@@ -1,0 +1,118 @@
+Sarabande in A minor - Mlle Bocquet (17th century)
+edition: arr. Annette Kruisbrink, Les Productions d'OZ DZ1335 (Quebec, 2009)
+see Notes and Legend below tab - tabbed by weed@wussu.com - 3 May 2018
+MIDI: http://www.classtab.org/bocquet_mlle_sarabande_in_am.mid
+
+tuning: E A D G B E               key: A minor               time: 3/4
+
+                M                    M                             M
+1   |   .   |   .   |   .    |   .   |   .   |   .     |   .   |   .   |   .
+E|--0-------5===========5--|-3===================3===|=========1===========1===|
+B|--1===========-----------|---------0------0g1======|=====1=======0---0=======|
+G|*-2===========0----------|-------------------------|---------------2---------|
+D|*-----------------3======|-2=======================|-0=======================|
+A|-------------------------|-------------------------|-------------------------|
+E|-------------------------|-------------------------|-------------------------|
+    1       4                4      010       1                2  010      1
+    2          010  2        2                                       3
+
+                                             M                 M
+4  |   .   |   .   |   .     |   .   |   .   |   .     |   .   |   .   |   .
+E|=====0===============0===|=====--------------------|-----------------0-------|
+B|-------------------------|---------3===========3===|=====1---3---1h3---------|
+G|---------0-------2=======|=====2=======2---1=======|-------------------------|
+D|-------------------------|-------------------------|-------------------------|
+A|-3=======================|-2=======================|-0=======================|
+E|-------------------------|-------------------------|-------------------------|
+   4               3         2   3   4      131            1  131  1 3
+
+   M                         M
+7  |   .   |   .   |   .     |   .   |   .   |   .
+E|---------0---------------|--------------------------|
+B|-----0-------3---1-----3-|--------------------------|
+G|-1===============--------|-0=======================*|
+D|-------------------------|-------------------------*|
+A|-----------------0=======|--------------------------|
+E|-------------------------|---------0===============-|
+  121                       010
+
+                        M                    M                         M
+9   |   .   |   .   |   .    |   .   |   .   |   .     |   .   |   .   |   .
+E|-------------------------|-------------------------|-------------------------|
+B|--0-------0---0---1---0==|=========----------------|-----------------0-----1-|
+G|*-1-------1-------2======|---------2===========0===|=====2===========--------|
+D|*-2===============-------|-0===========------------|-------------0===========|
+A|-------------------------|-------------3---2=======|-0=======----------------|
+E|-------------------------|-------------------------|---------3===============|
+    1               1  010           2                     2          010
+    2               3                    3  131                3
+
+                                             M                             M
+12 |   .   |   .   |   .     |   .   |   .   |   .     |   .   |   .   |   .
+E|-------------------------|-------------------------|-------------------------|
+B|-1===============----1---|-----------------0-------|-----------------0=======|
+G|-----------------0-------|-2===============------2=|=====1=======2-------1---|
+D|-------------2===========|=========0---3===========|=========2===============|
+A|-3-------3===============|-------------------------|-------------------------|
+E|-------------------------|-1=======================|-0=======================|
+               2             2           4  020    3       1   2   3      131
+                             1
+
+                   M
+15 |   .   |   .   |   .     |   .   |   .   |   .
+E|-------------------------|--------------------------||
+B|-----1=======1---0-------|--------------------------||
+G|-2===================1---|-2=======================*||
+D|-------------------------|-------------------------*||
+A|-------------------------|---------0===============-||
+E|=========0===============|--------------------------||
+                  010
+
+Notes and Legend
+----------------
+In 1640, The French lutenist and composer Mlle Boquet was living in Paris...
+with her sister who also played the lute and other instruments... Mlle Bocquet
+(Anne or Marguerite) nicknamed 'la Discrete' who played 'miraculously on the
+lute'... ran a salon with a Mlle de Scudery from 1653-1659. Here she was in
+touch with various artists and some of the founders of the Acadamie Francaise.
+Well known writers, poets and musicians performed in the Salon, including the
+famous and brilliant lute player and singer Angelique Paulet.
+Manuscript F-Pn of the Biobliotheque Nationale de France contains a number of
+Boquet's preludes. The 17 'Preludes marquant les cadences' and the 'Prelude sur
+tous les tons' explore the chromatic possibilities of the lute, with preludes
+in every key. Other lute pieces of Mlle Bocquet, such as Allemandes, Courantes,
+Sarabandes and Serenades are found in French, German and English manuscripts of
+the second half of the 17th century. All this music appears in Oeuvres des
+Bocquet (editors Monique Rollin and Andre Souris, Paris 1972).
+[info taken from Wikipedia and Annette Kruisbrink]
+
+The fingering follows the sheet.
+Mordents are ornaments - in older music (especially for the lute and baroque
+guitar), it is up to the performer to decide when and how they should be used.
+The tempo of the MIDI file is 60 bpm (quarter notes).
+
+left hand fingering below the tab -
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===   - note held, length of note
+g     - grace note (ornament) - extra note(s) played at the same time as, or
+        just before the main note, then immediately released - the following
+        note is usually played as a hammer-on, pull-off, or slide
+h     - hammer-on
+M     - upper mordent (ornament) - play main note, followed by the note above
+        (in the scale), and then return to original note - (may be extended)
+
+|---  ---|  repeat the section
+|---  ---|
+|*--  --*|
+|*--  --*|
+|---  ---|
+|---  ---|
+
+------------------------------------------------------------------------------
+
+more classical guitar tablature available from http://www.classtab.org
+
